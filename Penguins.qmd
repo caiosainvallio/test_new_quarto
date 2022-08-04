@@ -1,8 +1,9 @@
 ---
 title: "Untitled"
-format: html
+format: 
+  html: 
+    self-contained: true
 editor: visual
-lang: pt
 ---
 
 ## Quarto

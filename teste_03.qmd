@@ -6,11 +6,13 @@ number-sections: true
 toc-depth: 2
 toc-title: "Conteúdo"
 format: 
-  html:
+  html: 
+    self-contained: true
     code-line-numbers: true
     code-fold: true
     html-math-method: katex
 bibliography: references.bib
+
 ---
 
 To renderin pdf: quarto install tool tinytex On termninal tinytex::install_tinytex() On console
